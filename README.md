@@ -28,3 +28,10 @@ type ZZ = Program<P>;
 Almost certainly buggy, verifiably slow
 
 Seriously, you should _not_ use this in production. You will be fired.
+
+## TODO
+
+- [ ] Go write a blog post about this
+- [ ] Go re-implement some of the utility functions in the DSL
+- [ ] Experiment more with creative use of string syntax
+- [ ] Standardize some notion of Macros-as-types
