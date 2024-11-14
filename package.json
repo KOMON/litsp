@@ -1,0 +1,22 @@
+{
+  "name": "litsp",
+  "version": "0.1.0",
+  "description": "A small lisp-like DSL for typescript types",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KOMON/litsp.git"
+  },
+  "author": "Dan Raloff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KOMON/litsp/issues"
+  },
+  "homepage": "https://github.com/KOMON/litsp#readme",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
